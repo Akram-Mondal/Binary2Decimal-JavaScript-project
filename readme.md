@@ -1,7 +1,7 @@
-# BasicCounter-JavaScript-project-1 
+# Binary2Decimal-JavaScript-project-1 
 
 
 
 ### Sample Image
 
-![Sample One](./Image/Basic_Counter.png)
+![Sample One](./Image/Binary_Decimal.png)
